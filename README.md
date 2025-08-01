@@ -1,4 +1,4 @@
-# DIP-Spring-2025
+# DIP-Monsoon-2025
 
 This repository contains all lectures, assignments, and tutorials for the course CS7.404 Digital Image Processing in the Monsoon semester of 2025 at IIIT Hyderabad. The course is being taught by Anoop M. Namboodiri.
 
